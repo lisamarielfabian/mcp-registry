@@ -12,7 +12,7 @@ about:
 source:
   project: https://github.com/grafana/mcp-grafana
   branch: main
-  commit: 361534327fd8f215cfccef1741af411946850f84
+  commit: c265c04d02d8996eb95809113c11900334fd822e
 run:
   command:
     - --transport=stdio

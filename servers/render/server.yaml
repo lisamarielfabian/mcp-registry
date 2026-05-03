@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/114033652?v=4
 source:
   project: https://github.com/render-oss/render-mcp-server
-  commit: 5dbf25886fa528e9961c4a49c5de41932a0457a3
+  commit: 2318123c743e16ac9a6e89bbab80c47dd5a7a90a
 config:
   description: Configure the connection to Render
   secrets:

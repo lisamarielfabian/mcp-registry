@@ -12,7 +12,7 @@ about:
   description: "Community-maintained server for DuckDuckGo search. Not published by or affiliated with DuckDuckGo."
 source:
   project: https://github.com/nickclyde/duckduckgo-mcp-server
-  commit: 72140a7136a52d51ec9fdccdd7ff504959d0a5cf
+  commit: 3d167becc4eefbf9c5594e761ad3927f36f8a7b2
 run:
   allowHosts:
     - html.duckduckgo.com:443
